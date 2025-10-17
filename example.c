@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Riptides Labs, Inc.
+ * SPDX-License-Identifier: MIT
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
