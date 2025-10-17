@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Riptides Labs, Inc.
+ * SPDX-License-Identifier: MIT
+ */
+
 #include "oci_signer.h"
 
 #define OCI_SIGNER_AUTH_HEADER_NAME "Authorization"

@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Riptides Labs, Inc.
+ * SPDX-License-Identifier: MIT
+ */
+
 #ifndef __OCI_SIGNER_H
 #define __OCI_SIGNER_H
 
