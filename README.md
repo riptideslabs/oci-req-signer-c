@@ -2,6 +2,8 @@
 
 This project provides a C implementation of [Oracle Cloud Infrastructure (OCI) request signature](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/signingrequests.htm), suitable for use in embedded, kernel, or user-space applications. It includes a shared library and an example application demonstrating usage.
 
+> For more background and insights about this project, see our [blog post](https://riptides.io/blog-post/announcing-oci-req-signer-c-a-lightweight-c-library-for-oracle-cloud-request-signing).
+
 ## Features
 
 - Produces the HTTP `Authorization` header (key and value) for OCI requests, including the computed signature and all required metadata
